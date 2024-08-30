@@ -1,4 +1,4 @@
-![WDM 2](https://github.com/user-attachments/assets/616c4e6d-1f63-4789-9112-9155de209873)### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
+### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
 ### DATE: 
 ### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
